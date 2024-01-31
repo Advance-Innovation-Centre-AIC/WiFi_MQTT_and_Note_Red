@@ -66,8 +66,8 @@
 
 /********************* MQTT MESSAGE CONFIGURATION MACROS **********************/
 /* The MQTT topics to be used by the publisher and subscriber. */
-#define MQTT_PUB_TOPIC                    "chhun"
-#define MQTT_SUB_TOPIC                    "chhun"
+#define MQTT_PUB_TOPIC                    "Topic"
+#define MQTT_SUB_TOPIC                    "Topic"
 
 /* Set the QoS that is associated with the MQTT publish, and subscribe messages.
  * Valid choices are 0, 1, and 2. Other values should not be used in this macro.
